@@ -1,4 +1,4 @@
-# 📚 Book Recommendation Engine using K-Nearest Neighbors
+# Book Recommendation Engine using K-Nearest Neighbors
 
 > **FreeCodeCamp Machine Learning with Python Certification — Project 4**
 
